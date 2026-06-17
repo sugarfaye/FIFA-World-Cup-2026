@@ -21,6 +21,7 @@
 - `2026世界杯.js`: Scriptable 小组件主脚本。
 - `manifest.json`: 球队分组和头像资源索引。
 - `avatars/`: 48 支球队的透明 PNG 头像素材，每队包含 3 种状态。
+- `archive/transparent-clean-batches/`: 8 张清理后的批量透明底发布图，仅作为项目留底素材保存，不参与小组件运行，也不会被脚本自动读取。
 
 ## 头像状态
 
